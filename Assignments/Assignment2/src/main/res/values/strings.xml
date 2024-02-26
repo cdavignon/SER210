@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="title">Four in a Row</string>
+    <string name="nameInput">Input Name:</string>
+    <string name="rules">Welcome to Four in a Row! Here are the rules:\n\n1. The aim of the game is to get your pieces 4 in a row
+    \n\n2. The board is in a 6x6 layout\n\n3. You are playing against the computer\n\n You are playing as Red. Good Luck!</string>
+    <string name="start">START</string>
+</resources>
